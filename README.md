@@ -18,20 +18,24 @@
 |Stage|Activity|Date|Comment|Code Link|
 |--|--|--|--|--|
 |1|EDA|2025.01.04|데이터 탐색 및 시각화|[EDA](https://github.com/SeokcheonMoon/dacon_EV_analysis/blob/main/Data_analysis/EDA.ipynb)|
-|2|CDA|2025.01.0|상관관계 분석|[CDA](https://github.com/SeokcheonMoon/dacon_EV_analysis/blob/main/Data_analysis/CDA.ipynb)|
+|2|CDA|2025.01.05|상관관계 분석|[CDA](https://github.com/SeokcheonMoon/dacon_EV_analysis/blob/main/Data_analysis/CDA.ipynb)|
 |3|ML|2025.01.05|머신러닝 예측 모델 개발|[ML](https://github.com/SeokcheonMoon/dacon_EV_analysis/tree/main/ML)|
 
 ## 분석결과
 
-## 머신러닝 모델 개발 / 데이콘 등수 기록 (참여 인원 : 1,137명)
+## 머신러닝 모델 개발
 
 |No|Date|모델|Comment|평가 점수|Best|
 |--|--|--|--|--|--|--|
 |1|2025.01.05|XGBRregressor|배터리용량 결측값을 평균값으로 대체|1.0153660952||
 |2|2025.01.14|XGBRregressor|배터리용량 결측값을 0으로 대체|0.9181333378|V|
 |3|2025.01.15|LGBMRregressor|배터리용량 결측값을 0으로 대체|0.9449329324||
-||||||||
+|||||||
 
+## 데이콘 등수 기록 (참여 인원 : 1,137명)
+
+2025.01.05 219등
+2025.01.15 52등
 
 ## Reference
 
