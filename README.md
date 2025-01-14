@@ -18,8 +18,7 @@
 |Stage|Activity|Date|Comment|Code Link|
 |--|--|--|--|--|
 |1|EDA|2025.01.04|데이터 탐색 및 시각화|[EDA](https://github.com/SeokcheonMoon/dacon_EV_analysis/blob/main/Data_analysis/EDA.ipynb)|
-|2|CDA|2025.01.05|상관관계 분석|[CDA](https://github.com/SeokcheonMoon/dacon_EV_analysis/blob/main/Data_analysis/CDA.ipynb)|
-|3|ML|2025.01.05|머신러닝 예측 모델 개발|[ML](https://github.com/SeokcheonMoon/dacon_EV_analysis/tree/main/ML)|
+|2|ML|2025.01.05|머신러닝 예측 모델 개발|[ML](https://github.com/SeokcheonMoon/dacon_EV_analysis/tree/main/ML)|
 
 ## 분석결과
 
