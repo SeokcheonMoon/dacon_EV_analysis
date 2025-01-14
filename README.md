@@ -1,7 +1,5 @@
 # 전기차 가격 예측 해커톤: 데이터로 EV를 읽다!
 
-https://dacon.io/competitions/official/236424/overview/description
-
 ## 배경
 
 전기차 가격 예측은 빠르게 성장하는 전기차 시장에서 소비자와 제조사 모두에게 중요한 가치를 제공합니다.
@@ -17,16 +15,24 @@ https://dacon.io/competitions/official/236424/overview/description
 
 ## Process
 
+|Stage|Activity|Date|Comment|Code Link|
+|--|--|--|--|--|
+|1|EDA|2025.01.04|데이터 탐색 및 시각화|[EDA](https://github.com/SeokcheonMoon/dacon_EV_analysis/blob/main/Data_analysis/EDA.ipynb)|
+|2|CDA|2025.01.0|상관관계 분석|[CDA](https://github.com/SeokcheonMoon/dacon_EV_analysis/blob/main/Data_analysis/CDA.ipynb)|
+|3|ML|2025.01.05|머신러닝 예측 모델 개발|[ML](https://github.com/SeokcheonMoon/dacon_EV_analysis/tree/main/ML)|
+
 ## 분석결과
 
 ## 머신러닝 모델 개발 기록 / 데이콘 등수 기록 (참여 인원 : 1,137명)
 
-|파일명|모델|설명|날짜|평가 점수|등수|
-|--|--|--|--|--|
-|submission_basic.csv|XGBRregressor|배터리용량 결측값을 평균값으로 대체|2025.01.05|1.0153660952|219등|
-|submission_NaN_0.csv|XGBRregressor|배터리용량 결측값을 0으로 대체|2025.01.14|0.9181333378|52등|
-||||
-||||
+|No|날짜|파일명|모델|설명|날짜|평가 점수|등수|
+|--|--|--|--|--|--|
+||2025.01.05|XGBRregressor_NaN_mean.csv|XGBRregressor|배터리용량 결측값을 평균값으로 대체|2025.01.05|1.0153660952|219등|
+||2025.01.14|XGBRregressor_NaN_0.csv|XGBRregressor|배터리용량 결측값을 0으로 대체|2025.01.14|0.9181333378|52등|
+|||||
+|||||
 
 
 ## Reference
+
+[데이콘](https://dacon.io/competitions/official/236424/overview/description)
