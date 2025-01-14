@@ -22,8 +22,7 @@ https://dacon.io/competitions/official/236424/overview/description
 
 |파일명|설명|날짜|평가 점수|
 |--|--|--|--|
-||XGBRregressor 적용, 배터리용량 결측값 평균치로 대체|2025.01.04|1.1980805249|
-||위 단계에서 train 데이터에서 train, test를 나눴는데 이번엔 train 데이터 전부를 학습함.|2025.01.05|1.0153660952|
+||XGBRregressor 적용, 배터리용량 결측값 평균치로 대체|2025.01.05|1.0153660952|
 ||||
 ||||
 ||||
