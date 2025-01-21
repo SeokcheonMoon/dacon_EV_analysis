@@ -22,7 +22,6 @@
 |1|EDA|2025.01.04|데이터 탐색 및 시각화|[EDA](https://github.com/SeokcheonMoon/dacon_EV_analysis/blob/main/Data_analysis/EDA.ipynb)|
 |2|ML|2025.01.05 ~|머신러닝 예측 모델 개발|[ML](https://github.com/SeokcheonMoon/dacon_EV_analysis/tree/main/ML)|
 
-## 분석결과
 
 ## 머신러닝 모델 개발 기록
 
@@ -32,11 +31,12 @@
 |2|2025.01.14|XGBRregressor|배터리 nan -> 0|0.9181333378||
 |3|2025.01.15|LGBMRregressor|배터리 nan -> 0|0.9449329324||
 |4|2025.01.15|XGBRregressor|하이퍼파라미터 적용|1.0758477746||
-|4|2025.01.20|XGBRregressor|배터리 nan -> 0, StandardSclaer|1.2701580746||
-|4|2025.01.20|XGBRregressor|배터리 nan -> 0, MinMaxSclaer|0.911817677|V|
-|4|2025.01.20|XGBRregressor|배터리 nan -> 0, RobustSclaer|1.3495195047||
+|5|2025.01.20|XGBRregressor|배터리 nan -> 0, StandardSclaer|1.2701580746||
+|6|2025.01.20|XGBRregressor|배터리 nan -> 0, MinMaxSclaer|0.911817677|V|
+|7|2025.01.20|XGBRregressor|배터리 nan -> 0, RobustSclaer|1.3495195047||
+|8|2025.01.20|XGBRregressor|MinMaxSclaer, Gridsearch|1.0866232171||
 
-## 데이콘 등수 기록 (참여 인원 : 1,200명)
+## 데이콘 등수 기록 (참여 인원 : 1,213명)
 
 - 2025.01.05 219등
 - 2025.01.14 52등
